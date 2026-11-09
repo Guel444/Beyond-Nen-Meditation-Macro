@@ -1,0 +1,26 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Application logs and local diagnostics
+meditation_macro_log*.csv
+*.log
+
+# Build outputs
+build/
+dist/
+*.spec
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
